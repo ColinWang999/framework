@@ -26,7 +26,7 @@ http://www.springframework.org/schema/aop/spring-aop-2.5.xsd
             </property>  
             <property name="url" value="jdbc:mysql://localhost:3306/myhib"></property>  
             <property name="username" value="root"></property>  
-            <property name="password" value="123456"></property>
+            <property name="password" value="123"></property>
     </bean>  
 
    <bean id="sessionFactory"  
